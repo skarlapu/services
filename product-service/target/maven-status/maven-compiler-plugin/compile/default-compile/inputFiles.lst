@@ -1,0 +1,10 @@
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/service/ProductService.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/dto/ProductRequest.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/controlAdvice/ProductRestControlAdvice.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/util/StringUtils.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/repository/ProductRepository.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/ProductServiceApplication.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/dto/ProductResponse.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/controller/ProductController.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/model/Product.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/product-service/src/main/java/com/learner/exception/ExceptionMessage.java

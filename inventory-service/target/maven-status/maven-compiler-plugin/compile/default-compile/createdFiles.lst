@@ -1,0 +1,10 @@
+com/learner/InventoryServiceApplication.class
+com/learner/dto/InventoryReponse.class
+com/learner/model/Inventory$InventoryBuilder.class
+com/learner/service/InventoryService.class
+com/learner/dto/InventoryRequest.class
+com/learner/dto/InventoryRequest$InventoryRequestBuilder.class
+com/learner/dto/InventoryReponse$InventoryReponseBuilder.class
+com/learner/controller/InventoryController.class
+com/learner/repository/InventoryRepository.class
+com/learner/model/Inventory.class

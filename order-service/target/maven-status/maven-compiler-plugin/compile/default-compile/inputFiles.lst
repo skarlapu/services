@@ -1,0 +1,14 @@
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/dto/InventoryReponse.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/repository/OrderRepository.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/dto/OrderRequest.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/service/OrderService.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/OrderControlAdvice.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/controller/OrderController.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/exception/ProductIsNotInStock.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/dto/Item.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/repository/OrderLineRepository.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/OrderServiceApplication.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/config/WebClientConfig.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/model/OrderLineItem.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/exception/Exception.java
+/Users/skarlapu/Documents/workspace-spring/micro-service/order-service/src/main/java/com/learner/model/Order.java
